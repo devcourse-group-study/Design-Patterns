@@ -1,4 +1,4 @@
-package Singleton;
+package singleton;
 
 public class SingletonDCL { // Java 1.4 미만 X
     private volatile static SingletonDCL instance;
