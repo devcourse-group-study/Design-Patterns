@@ -11,3 +11,7 @@
 ### 3. Abstract Factory
 * [**개념**](./DesignPatterns/AbstractFactory.md)
 * [**코드**](./src/main/java/abstractfactory)
+
+### 4. Proxy
+* [**개념**](DesignPatterns%2FProxy.md)
+* [**코드**](src%2Fmain%2Fjava%2Fproxy)
