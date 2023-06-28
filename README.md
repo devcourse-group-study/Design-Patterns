@@ -15,3 +15,7 @@
 ### 4. Proxy
 * [**개념**](DesignPatterns%2FProxy.md)
 * [**코드**](src%2Fmain%2Fjava%2Fproxy)
+
+### 5. Facade
+* [**개념**](./DesignPatterns/Facade.md)
+* [**코드**](./src/main/java/facade)
