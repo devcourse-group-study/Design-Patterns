@@ -19,3 +19,7 @@
 ### 5. Facade
 * [**개념**](./DesignPatterns/Facade.md)
 * [**코드**](./src/main/java/facade)
+
+### 6. Composite
+* [**개념**]()
+* [**코드**]()
