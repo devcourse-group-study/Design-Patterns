@@ -43,3 +43,7 @@
 
 #### 단점 
 - 공통된 인터페이스를 정의해야하기 때문에 지나친 일반화를 해야하는 상황이 생긴다. 
+--- 
+#### 출처 
+[Refactoring guru](https://refactoring.guru/design-patterns/composite)
+GOF의 디자인패턴
