@@ -27,3 +27,7 @@
 ### 7. Decorator
 * [**개념**](./DesignPatterns/Decorator.md)
 * [**코드**](./src/main/java/decorator)
+
+### 8. Adapter
+* [**개념**](./DesignPatterns/Adapter.md)
+* [**코드**](./src/main/java/adapter)
