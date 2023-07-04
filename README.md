@@ -21,9 +21,13 @@
 * [**코드**](./src/main/java/facade)
 
 ### 6. Composite
-* [**개념**]()
-* [**코드**]()
+* [**개념**](./DesignPatterns/Composite.md)
+* [**코드**](./src/main/java/composite)
 
 ### 7. Decorator
 * [**개념**](./DesignPatterns/Decorator.md)
 * [**코드**](./src/main/java/decorator)
+
+### 8. Template Method
+* [**개념**](./DesignPatterns/TemplateMethod.md)
+* [**코드**](./src/main/java/templatemethod)
