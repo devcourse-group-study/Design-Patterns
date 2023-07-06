@@ -35,3 +35,7 @@
 ### 9. Template Method
 * [**개념**](./DesignPatterns/TemplateMethod.md)
 * [**코드**](./src/main/java/templatemethod)
+
+### 10. Iterator
+* [**개념**](./DesignPatterns/Iterator.md)
+* [**코드**](./src/main/java/iterator)
