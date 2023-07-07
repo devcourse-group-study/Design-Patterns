@@ -39,3 +39,7 @@
 ### 10. Iterator
 * [**개념**](./DesignPatterns/Iterator.md)
 * [**코드**](./src/main/java/iterator)
+
+### 11. Observer
+* [**개념**](./DesignPatterns/Observer.md)
+* [**코드**](./src/main/java/observer)
