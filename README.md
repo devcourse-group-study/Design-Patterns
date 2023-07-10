@@ -47,3 +47,7 @@
 ### 12. State
 * [**개념**](./DesignPatterns/State.md)
 * [**코드**](./src/main/java/state)
+
+### 13. Strategy
+* [**개념**](./DesignPatterns/Strategy.md)
+* [**코드**](./src/main/java/strategy)
